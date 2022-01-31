@@ -23,6 +23,7 @@ RUN dnf -y update && \
     autoconf-archive \
     libconfig \
     libgc-devel \
+    gflags-devel \
     unifdef \
     libffi-devel \
     boost-iostreams \
